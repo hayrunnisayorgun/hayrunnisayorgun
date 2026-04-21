@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Hayrunnisa 👋
 
-<!--
-**hayrunnisayorgun/hayrunnisayorgun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student interested in Artificial Intelligence, Computer Vision and Mobile Development.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Computer Vision
+- Machine Learning
+- Mobile App Development
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Post-Disaster Building Damage Detection from Satellite Images
+- Order & Inventory Decision Support System
+
+## Connect with me
+LinkedIn: https://linkedin.com/in/hayrunnisayorgun
