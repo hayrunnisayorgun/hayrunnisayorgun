@@ -4,7 +4,6 @@ Software Engineering student interested in Artificial Intelligence, Computer Vis
 
 ## Areas of Interest
 - Computer Vision
-- Machine Learning
 - Mobile App Development
 - Web Development
 
