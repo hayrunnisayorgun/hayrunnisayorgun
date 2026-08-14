@@ -1,15 +1,17 @@
 # Hi, I'm Hayrunnisa 👋
 
-Software Engineering student interested in Artificial Intelligence, Computer Vision and Mobile Development.
+4th Year Software Engineering Student | Microsoft AI Innovators Summer Intern
 
 ## Areas of Interest
+- Agentic AI & Local LLMs
 - Computer Vision
 - Mobile App Development
 - Web Development
 
 ## Currently Working On
-- Post-Disaster Building Damage Detection from Satellite Images
-- Order & Inventory Decision Support System
+-  **[Codetrace]:** Autonomous AI Codebase & Architecture Auditor using Microsoft Foundry Local & RAG.
+-  **Offline-First Elevator Sync:** Distributed offline LWW synchronization architecture.
 
 ## Connect with me
 LinkedIn: https://linkedin.com/in/hayrunnisayorgun
+hayrunnisayorgun1@gmail.com
