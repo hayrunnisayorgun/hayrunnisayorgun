@@ -14,4 +14,4 @@
 
 ## Connect with me
 LinkedIn: https://linkedin.com/in/hayrunnisayorgun
-hayrunnisayorgun1@gmail.com
+
