@@ -1,4 +1,4 @@
-# Hi, I'm Hayrunnisa 👋
+# Hi, I'm Nisa👋
 
 4th Year Software Engineering Student | Microsoft AI Innovators Summer Intern
 
@@ -9,7 +9,7 @@
 - Web Development
 
 ## Currently Working On
--  **[Codetrace]:** Autonomous AI Codebase & Architecture Auditor using Microsoft Foundry Local & RAG.
+-  **Codetrace:** Autonomous AI Codebase & Architecture Auditor using Microsoft Foundry Local & RAG.
 -  **Offline-First Elevator Sync:** Distributed offline LWW synchronization architecture.
 
 ## Connect with me
